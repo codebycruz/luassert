@@ -1,0 +1,7 @@
+{
+	"name": "luassert",
+	"version": "0.1.0",
+	"dependencies": {
+		"say": { "path": "../say" }
+	}
+}
