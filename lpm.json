@@ -2,6 +2,6 @@
 	"name": "luassert",
 	"version": "0.1.0",
 	"dependencies": {
-		"say": { "path": "../say" }
+		"say": { "git": "https://github.com/codebycruz/say.git" }
 	}
 }
